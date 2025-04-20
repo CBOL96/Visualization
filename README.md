@@ -1,8 +1,7 @@
-**Power BI Dashboards**
+**Power BI Dashboards**  
 
-This repository contains my Power BI projects, designed to visualize and analyze data in a clear and effective way.
-📊 HR Dashboard
-
+This repository contains my Power BI projects, designed to visualize and analyze data in a clear and effective way.  
+📊 **HR Dashboard**  
 This dashboard is divided into three pages:
 
 **1.Home**  
